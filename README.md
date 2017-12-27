@@ -20,3 +20,4 @@ the agent is testes against a fixed opponent (which choose moves randomly).
 the exploration rate is set equal to 0 and no updates is performed.
 
 
+WORK IN PROGRESS...
