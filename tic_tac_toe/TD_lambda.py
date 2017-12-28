@@ -25,7 +25,7 @@ from tic_tac_toe import TicTacToeGameSpec, play_game
 ### decay_rate --> decay rate parameter of the Exponential decay function
 ### decay_steps --> decay step parameter of the Exponential decay function
 ##### Output:
-### variables --> variables of the trained network
+### results --> results of the experiment
 def TD_train(game_spec,
              create_network_func,
              network_file_path,
