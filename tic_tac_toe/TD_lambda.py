@@ -193,7 +193,7 @@ def TD_train(game_spec,
         losses = 0
         draws = 0
         
-        ## Un giro per ogni round
+        ## Main cycle:
         for i in range(number_of_rounds):
             ### TRAIN PHASE:
             ## Run the games:
