@@ -6,7 +6,7 @@ Those programs consist in a neural network that trains itself to be an evaluatio
 
 The parameter of the neural network are updated using the reinforcement learning algorithm called TD(lambda) applied in a self-playing context.
 
-In the file presentation.pdf you will find a brief explanation about those two programs.
+In the file presentation.pdf you will find a brief explanation about what is inside this reposity.
 
 Have fun!
 
