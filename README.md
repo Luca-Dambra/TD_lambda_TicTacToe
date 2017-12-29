@@ -4,10 +4,13 @@ This reposity contains the code of the two game-learning programs, one for the g
 
 Those programs consist in a neural network that trains itself to be an evaluation function of the various positions of the games. 
 
-The parameter of the neural network are updated using the reinforcement learning algorithm called TD(lambda).
+The parameter of the neural network are updated using the reinforcement learning algorithm called TD(lambda) applied in a self-playing context.
 
+In the file presentation.pdf you will find a brief explanation about those two programs.
+
+Have fun!
+
+### Acknowledgement
 
 Most of the code in this reposity is based on the works of Daniel Slater ([AlphaToe](https://github.com/DanielSlater/AlphaToe)) and
 Fomoro Company Organization ([TD-gammon](https://github.com/fomorians/td-gammon)).
-
-
