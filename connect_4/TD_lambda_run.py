@@ -8,12 +8,12 @@ from TD_lambda import TD_train
 from benchmark import benchmark_player
  
 NETWORK_FILE_PATH = None
-NUMBER_OF_GAMES_TO_RUN = 5000
+NUMBER_OF_GAMES_TO_RUN = 10000
 NUMBER_OF_TEST = 200
 NUMBER_OF_ROUNDS = 200
 EPSILON = 0.1
-TAU = 0.9
-LAMBDA = 0.2
+TAU = 0.95
+LAMBDA = 0.1
 DECAY_RATE = 0.95
 DECAY_STEP = 20000
 ALPHA = 0.05 ## starting learning rate
